@@ -61,8 +61,8 @@ echo"
 <div id='comment-box'>
 <form method='post' action='proseskomentar.php'>
 <table width='100%' cellpadding='5' cellspacing='0' border='0'>
-<tr><td>Nama Lengkap</td><td>:</td><td><input type='text' name='nama' class='input-textfield-comment' /></td></tr>
-<tr><td>Komentar Anda</td><td>:</td><td><textarea class='input-comment' name='komentar' /></textarea></td></tr>
+<tr><td>Nama Lengkap</td><td>:</td><td><input type='text' name='nama' class='form-control' /></td></tr>
+<tr><td>Komentar Anda</td><td>:</td><td><textarea class='form-control' name='komentar' /></textarea></td></tr>
 <tr><td></td><td></td><td><input type='image' src='images/kirim.png' /> <input type='image' src='images/batal.png' /></td></tr>
  <input type='hidden' name='id_berita' value='$d[id_berita]'>
   <input type='hidden' name='id_kat' value='$d[id_kat]'>

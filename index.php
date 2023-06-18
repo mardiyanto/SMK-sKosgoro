@@ -46,7 +46,7 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-8 ftco-animate text-center">
-            <h1 class="mb-4">MADRASAH ALIYAH  MATHLAUL ANWAR KEDONDONG</h1>
+            <h1 class="mb-4">SMK KOSGORO PENAWARTAMA</h1>
             <p><a href="beranda.php?aksi=psb" class="btn btn-primary px-4 py-3">Daftar</a></p>
           </div>
         </div>

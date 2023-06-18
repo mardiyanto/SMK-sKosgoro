@@ -1,5 +1,5 @@
   <div class="container">
-       <a class="navbar-brand" href="index.php"><i class="flaticon-university"></i>MADRASAH ALIYAH  <br><small>MATHLAUL ANWAR KEDONDONG</small></a>
+       <a class="navbar-brand" href="index.php"><i class="flaticon-university"></i>SMK KOSGORO<br><small>PENAWARTAMA</small></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
       </button>
