@@ -70,7 +70,7 @@ $tahun = date("Y");
     <div align="right"></div>    
     <div align="right"><img src="foto/header/logo.png" width="134"></div></td>
     <td colspan="7" class="style5"><div align="center" class="style5"></div>      <div align="center" class="style8"></div>      <div align="center" class="style8"></div>      
-    <div align="center" class="style5"><span class="style8"><strong>PEMERINTAH KABUPATEN PRINGSEWU </strong></span></div></td>
+    <div align="center" class="style5"><span class="style8"><strong>PEMERINTAH KABUPATEN LAMPUNG TENGAH </strong></span></div></td>
   </tr>
   <tr>
     <td colspan="7" class="style5"><div align="center" class="style8"><strong><strong>DINAS PENDIDIKAN </strong></strong></div></td>
@@ -103,7 +103,7 @@ $tahun = date("Y");
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td colspan="8"><div align="center"><span class="style10">TAHUN AJARAN 2016 / 2017 </span></div></td>
+    <td colspan="8"><div align="center"><span class="style10">TAHUN AJARAN 2023 / 2024 </span></div></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -307,7 +307,7 @@ $tahun = date("Y");
     <td colspan="2">&nbsp;</td>
     <td>&nbsp;</td>
     <td colspan="3"><div align="center" class="style18">Mengetahui</div></td>
-    <td colspan="2"><p class="style20">Pringsewu  , <?php echo  $tanggal ." ". $bulan ." ". $tahun; ?></p>      </td>
+    <td colspan="2"><p class="style20">Lampung Tengah  , <?php echo  $tanggal ." ". $bulan ." ". $tahun; ?></p>      </td>
   </tr>
   <tr>
     <td>&nbsp;</td>
