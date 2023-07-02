@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.8.2
+-- version 4.7.0
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 18 Jun 2023 pada 04.42
--- Versi server: 10.1.34-MariaDB
--- Versi PHP: 5.6.37
+-- Generation Time: 02 Jul 2023 pada 04.02
+-- Versi Server: 10.1.25-MariaDB
+-- PHP Version: 5.6.31
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -454,13 +454,13 @@ CREATE TABLE `profil` (
 
 INSERT INTO `profil` (`id_profil`, `foto`, `aktif`, `nama`, `isi`, `alamat`, `no_hp`, `menu`) VALUES
 (6, '23032020033527.jpg', 'N', 'Struktur Organisasi', '<p><img alt=\"\" src=\"http://localhost/madrasahaliyahkedodong/struktur.jpg\" style=\"height:681px; width:545px\" /></p>\r\n', '', '', ''),
-(3, '31052017021339.jpg', 'N', 'Sejarah SMK Kosgoro Penawartama  ', '<p>SMK Ma&rsquo;arif Pringsewu adalah sebuah lembaga pendidikan Islam dibawah naungan Lembaga Ma&rsquo;arif Kabupaten Pringsewu. &nbsp;SMK Ma&rsquo;arif Pringsewu dikelola oleh Lembaga &nbsp;dan diurus oleh seorang Kepala Sekolah beserta guru-ruru dan staf tata usaha. Pengurus Lembaga dan Kepala Sekolah serta seluruh guru-guru dan staf TU bekerja dengan fungsi masing-masing yang telah diatur dengan sebuah mekanisme kerja.</p>\r\n\r\n<p>Lembaga Ma&rsquo;arif Kabupaten Pringsewu membuat dan menerbitkan pedoman penyelenggaraan seperti; Anggaran Dasar, Anggaran Rumah Tangga dan Perangkat Peraturan Kelembagaan/Yayasan lainnya&nbsp; sehingga Kepala Sekolah ,Guru-guru dan TU dapat membuat/merumuskan Program Kerja sekolah.</p>\r\n\r\n<p>SMK Ma&rsquo;arif Pringsewu adalah sekolah yang terletak di Jalan M Yusuf No 451 Pekon Rejosari Kecamatan Pringsewu&nbsp; Kabupaten Pringsewu. Tepatnya di komplek pendidikan Pondok Pesantren Salafiyah Al-Wustho (PPSA) Rejosari. Didirikan pada tahun 2014, SMK Ma&rsquo;arif&nbsp; Pringsewu menyelenggarakan Program Keahliah Teknik Komputer dan Jaringan. SMK Ma&rsquo;arif Pringsewu&nbsp; didirikan dengan tujuan mendidik putra-putri bangsa menjadi putra-putri yang mempunyai skill handal dan kompeten dalam era modernisasi ini sekaligus memiliki wawasan keagamaan yang kuat dengan berprinsip kepada akidah ahlusunnah wal jamaah.</p>\r\n', '', '', ''),
-(4, '31052017021706.jpg', 'N', 'Visi, Misi dan Tujuan Madrasah Aliyah Mathlaul Anw', '<p>VISI<br />\r\nMewujudkan Sekolah yang berkembang yang menjadi pilihan masyarakat Industri kerja secara mandiri kompetitif dan berwawasan Ahlusunnah Wal Jamaah<br />\r\nMisi<br />\r\n1.Membentuk tamatan yang berimtaq dan beriptek<br />\r\n2.Membentuk tamatan yang mandiri serta dapat mengatasi kehidupan diera globalisasi<br />\r\n3.Mengoptimalkan sumber daya dalam meningkatkan mutu pendidikan<br />\r\nTujuan<br />\r\n1.Menghasilkan lulusan dengan kompetensi yang sesuai dengan standar pemerintah, Persyarikatan Nahdatul Ulama, tuntutan pusat lokal, nasional maupun global,<br />\r\n2.Manghasilkan lulusan yang mampu berwirausaha secara mandiri.<br />\r\n3.Menghasilkan lulusan siap untuk terus mengembangkan diri secara otodidik, belajar dalam komunitas/rekan profesi maupun studi lanjut di Perguruan Tinggi.</p>\r\n', '', '', ''),
+(3, '31052017021339.jpg', 'N', 'Sejarah SMK Kosgoro Penawartama  ', '<p>SMK Kosgoro Penawartama&nbsp; adalah sebuah lembaga pendidikan dibawah naungan Lembaga SMK Kosgoro Penawartama&nbsp;. SMK Kosgoro Penawartama&nbsp; dikelola oleh Lembaga &nbsp;dan diurus oleh seorang Kepala Sekolah beserta guru-ruru dan staf tata usaha. Pengurus Lembaga dan Kepala Sekolah serta seluruh guru-guru dan staf TU bekerja dengan fungsi masing-masing yang telah diatur dengan sebuah mekanisme kerja.</p>\r\n\r\n<p>Lembaga SMK Kosgoro Penawartama membuat dan menerbitkan pedoman penyelenggaraan seperti; Anggaran Dasar, Anggaran Rumah Tangga dan Perangkat Peraturan Kelembagaan/Yayasan lainnya&nbsp; sehingga Kepala Sekolah ,Guru-guru dan TU dapat membuat/merumuskan Program Kerja sekolah.</p>\r\n\r\n<p>SMK Kosgoro Penawartama&nbsp; adalah sekolah yang terletak di JL. SEMERU NO. 02 RT / RW : 3 / 3&nbsp; Bogatama kel. Boga Tama&nbsp; Kec. Penawartama Kab. Tulang Bawang Prov. Lampung 34595&nbsp;. Tepatnya di komplek pendidikan Pondok Pesantren Salafiyah Al-Wustho (PPSA) Penawartama&nbsp;&nbsp;. Didirikan pada tahun 2014, SMK Kosgoro menyelenggarakan Program Keahliah Teknik Komputer dan Jaringan. SMK Kosgoro&nbsp; didirikan dengan tujuan mendidik putra-putri bangsa menjadi putra-putri yang mempunyai skill handal dan kompeten dalam era modernisasi ini sekaligus memiliki wawasan keagamaan yang kuat dengan berprinsip kepada akidah ahlusunnah wal jamaah.</p>\r\n', '', '', ''),
+(4, '31052017021706.jpg', 'N', 'Visi, Misi dan Tujuan SMK Kosgoro Penawartama ', '<p>VISI<br />\r\nMewujudkan Sekolah yang berkembang yang menjadi pilihan masyarakat Industri kerja secara mandiri kompetitif dan berwawasan Ahlusunnah Wal Jamaah<br />\r\nMisi<br />\r\n1.Membentuk tamatan yang berimtaq dan beriptek<br />\r\n2.Membentuk tamatan yang mandiri serta dapat mengatasi kehidupan diera globalisasi<br />\r\n3.Mengoptimalkan sumber daya dalam meningkatkan mutu pendidikan<br />\r\nTujuan<br />\r\n1.Menghasilkan lulusan dengan kompetensi yang sesuai dengan standar pemerintah, Persyarikatan Nahdatul Ulama, tuntutan pusat lokal, nasional maupun global,<br />\r\n2.Manghasilkan lulusan yang mampu berwirausaha secara mandiri.<br />\r\n3.Menghasilkan lulusan siap untuk terus mengembangkan diri secara otodidik, belajar dalam komunitas/rekan profesi maupun studi lanjut di Perguruan Tinggi.</p>\r\n', '', '', ''),
 (1, '', 'N', 'Pengumuman', '<p style=\"text-align: left;\">Telah dibuka pendaftaran beasiswa bagi siswa yang berprestasi dengan tingkatan kelas X dan XII pada hari ini untuk informasi lebih lanjut silahkan hubungi panitian seleksi beasiswa di ruangan Task Post,</p>', '', '', ''),
-(8, '09102014084623.jpg', 'N', 'Sarana dan Prasarana', '<p>Gedung SMK Kosgoro Penawartama yang berlokasi di <span style=\"background-color:rgb(255, 255, 255); color:rgb(34, 34, 34); font-family:arial,sans-serif; font-size:14px\">Jl. M Yusuf No. 451, Pekon Rejosari, Kecamatan Pringsewu, Rejosari, Kec. Pringsewu, Kabupaten Pringsewu, Lampung 35373</span>, Indonesia di bangun diatas tanah seluas 15150 M. Adapun sarana dan prasarana yang dimiliki SMK Kosgoro Penawartama adalah sebagai berikut:</p>\r\n\r\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"table table-bordered table-striped\">\r\n	<tbody>\r\n		<tr>\r\n			<td rowspan=\"2\">\r\n			<p><strong>Uraian</strong></p>\r\n			</td>\r\n			<td rowspan=\"2\">\r\n			<p><strong>Jumlah</strong></p>\r\n			</td>\r\n			<td rowspan=\"2\">\r\n			<p><strong>Satuan</strong></p>\r\n			</td>\r\n			<td colspan=\"3\">\r\n			<p><strong>Kondisi</strong></p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p><strong>Baik</strong></p>\r\n			</td>\r\n			<td>\r\n			<p><strong>Cukup</strong></p>\r\n			</td>\r\n			<td>\r\n			<p><strong>Kurang</strong></p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Ruang Kelas</p>\r\n			</td>\r\n			<td>\r\n			<p>8</p>\r\n			</td>\r\n			<td>\r\n			<p>Ruang</p>\r\n			</td>\r\n			<td>\r\n			<p>8</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Perpustakaan</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>Ruang</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Ruang Guru</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>Ruang</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Ruang Kepala Sekolah</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>Ruang</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Buku Paket</p>\r\n			</td>\r\n			<td>\r\n			<p>120</p>\r\n			</td>\r\n			<td>\r\n			<p>Buah</p>\r\n			</td>\r\n			<td>\r\n			<p>87</p>\r\n			</td>\r\n			<td>\r\n			<p>22</p>\r\n			</td>\r\n			<td>\r\n			<p>10</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Buku Penunjang</p>\r\n			</td>\r\n			<td>\r\n			<p>30</p>\r\n			</td>\r\n			<td>\r\n			<p>Buah</p>\r\n			</td>\r\n			<td>\r\n			<p>17</p>\r\n			</td>\r\n			<td>\r\n			<p>8</p>\r\n			</td>\r\n			<td>\r\n			<p>7</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Lapangan Olahraga</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Komputer</p>\r\n			</td>\r\n			<td>\r\n			<p>2</p>\r\n			</td>\r\n			<td>\r\n			<p>Buah</p>\r\n			</td>\r\n			<td>\r\n			<p>2</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Toilet</p>\r\n			</td>\r\n			<td>\r\n			<p>2</p>\r\n			</td>\r\n			<td>\r\n			<p>Ruang</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>2</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Sumber Air</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n', '', '', ''),
-(9, '24032020120042.jpg', 'Y', 'Sambuatan Kepala Sekolah Madrasah Aliyah Mathlaul ', '<p>Assalamu&rsquo;alaikum Wr. Wb., Tabik Pun&hellip;</p>\r\n\r\n<p>Segala puji syukur kami panjatkan kehadirat Allah swt, Tuhan Yang Maha Esa, atas segala Karunia dan Nikmat-Nya kami bersama anda dan masyarakat masih ikut serta dalam menjalankan dan mengelola dunia pendidikan. Di era global saat ini, kemajuan teknologi dan informasi melalui media luar biasa pesatnya. SMK Kosgoro Penawartama menangkap hal ini sebagai sebuah perubahan dan kemajuan yang harus dikelola secara bijak dan profesional untuk memajukan dunia pendidikan.</p>\r\n\r\n<p>Kehadiran website resmi SMK Kosgoro Penawartama merupakan salah satu implementasi program sekolah untuk menciptakan pengelolaan sekolah berbasis IT dimulai dengan proses pembelajaran, pengembangan kemampuan menulis bagi GTK dan siswa, berbagai informasi penting serta upaya kerjasama dengan masyarakat, alumni dan pemerintah.</p>\r\n\r\n<p>Dengan web ini saya sangat berharap partisispasi aktif dari seluruh stakeholder dan seluruh pihak-pihak yang terkait untuk berkontribusi secara konstruktif untuk pengembangan dan kemajuan sekolah dalamkerangka pencapaian visi misi sekolah.</p>\r\n\r\n<p>Semoga bermanfaat dan Allah swt meridhoinya, aamiin.</p>\r\n\r\n<p>Wassalamu&rsquo;alaikum Wr Wb<br />\r\nKepala SMK Kosgoro Penawartama</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Dr.H. Muhtasor, S.Pd., M.M.</p>\r\n', '', '', ''),
+(8, '09102014084623.jpg', 'N', 'Sarana dan Prasarana', '<p>Gedung SMK Kosgoro Penawartama yang berlokasi di JL. SEMERU NO. 02 RT / RW : 3 / 3&nbsp; Bogatama kel. Boga Tama&nbsp; Kec. Penawartama Kab. Tulang Bawang Prov. Lampung 34595&nbsp;, Indonesia di bangun diatas tanah seluas 15150 M. Adapun sarana dan prasarana yang dimiliki SMK Kosgoro Penawartama adalah sebagai berikut:</p>\r\n\r\n<table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" class=\"table table-bordered table-striped\">\r\n	<tbody>\r\n		<tr>\r\n			<td rowspan=\"2\">\r\n			<p>Uraian</p>\r\n			</td>\r\n			<td rowspan=\"2\">\r\n			<p>Jumlah</p>\r\n			</td>\r\n			<td rowspan=\"2\">\r\n			<p>Satuan</p>\r\n			</td>\r\n			<td colspan=\"3\">\r\n			<p>Kondisi</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Baik</p>\r\n			</td>\r\n			<td>\r\n			<p>Cukup</p>\r\n			</td>\r\n			<td>\r\n			<p>Kurang</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Ruang Kelas</p>\r\n			</td>\r\n			<td>\r\n			<p>8</p>\r\n			</td>\r\n			<td>\r\n			<p>Ruang</p>\r\n			</td>\r\n			<td>\r\n			<p>8</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Perpustakaan</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>Ruang</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Ruang Guru</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>Ruang</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Ruang Kepala Sekolah</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>Ruang</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Buku Paket</p>\r\n			</td>\r\n			<td>\r\n			<p>120</p>\r\n			</td>\r\n			<td>\r\n			<p>Buah</p>\r\n			</td>\r\n			<td>\r\n			<p>87</p>\r\n			</td>\r\n			<td>\r\n			<p>22</p>\r\n			</td>\r\n			<td>\r\n			<p>10</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Buku Penunjang</p>\r\n			</td>\r\n			<td>\r\n			<p>30</p>\r\n			</td>\r\n			<td>\r\n			<p>Buah</p>\r\n			</td>\r\n			<td>\r\n			<p>17</p>\r\n			</td>\r\n			<td>\r\n			<p>8</p>\r\n			</td>\r\n			<td>\r\n			<p>7</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Lapangan Olahraga</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Komputer</p>\r\n			</td>\r\n			<td>\r\n			<p>2</p>\r\n			</td>\r\n			<td>\r\n			<p>Buah</p>\r\n			</td>\r\n			<td>\r\n			<p>2</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Toilet</p>\r\n			</td>\r\n			<td>\r\n			<p>2</p>\r\n			</td>\r\n			<td>\r\n			<p>Ruang</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>2</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td>\r\n			<p>Sumber Air</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>1</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td>\r\n			<p>&nbsp;</p>\r\n			</td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n', '', '', ''),
+(9, '24032020120042.jpg', 'Y', 'Sambuatan Kepala Sekolah SMK Kosgoro', '<p>Assalamu&rsquo;alaikum Wr. Wb., Tabik Pun&hellip;</p>\r\n\r\n<p>Segala puji syukur kami panjatkan kehadirat Allah swt, Tuhan Yang Maha Esa, atas segala Karunia dan Nikmat-Nya kami bersama anda dan masyarakat masih ikut serta dalam menjalankan dan mengelola dunia pendidikan. Di era global saat ini, kemajuan teknologi dan informasi melalui media luar biasa pesatnya. SMK Kosgoro Penawartama menangkap hal ini sebagai sebuah perubahan dan kemajuan yang harus dikelola secara bijak dan profesional untuk memajukan dunia pendidikan.</p>\r\n\r\n<p>Kehadiran website resmi SMK Kosgoro Penawartama merupakan salah satu implementasi program sekolah untuk menciptakan pengelolaan sekolah berbasis IT dimulai dengan proses pembelajaran, pengembangan kemampuan menulis bagi GTK dan siswa, berbagai informasi penting serta upaya kerjasama dengan masyarakat, alumni dan pemerintah.</p>\r\n\r\n<p>Dengan web ini saya sangat berharap partisispasi aktif dari seluruh stakeholder dan seluruh pihak-pihak yang terkait untuk berkontribusi secara konstruktif untuk pengembangan dan kemajuan sekolah dalamkerangka pencapaian visi misi sekolah.</p>\r\n\r\n<p>Semoga bermanfaat dan Allah swt meridhoinya, aamiin.</p>\r\n\r\n<p>Wassalamu&rsquo;alaikum Wr Wb<br />\r\nKepala SMK Kosgoro Penawartama</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>Dr.H. Muhtasor, S.Pd., M.M.</p>\r\n', '', '', ''),
 (7, '', 'Y', 'tes', '', '', '', ''),
-(2, '', 'N', 'SMK Kosgoro Penawartama  ', '<table class=\"table table-bordered table-hover table-striped\">\r\n	<tbody>\r\n		<tr>\r\n			<td style=\"width:192px\">\r\n			<p>Nama&nbsp;&nbsp; Sekolah &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;</p>\r\n			</td>\r\n			<td style=\"width:49px\">\r\n			<p><strong>:</strong></p>\r\n			</td>\r\n			<td style=\"width:247px\">\r\n			<p>SMK Ma&rsquo;arif Pringsewu</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td style=\"width:192px\">\r\n			<p>NPSN</p>\r\n			</td>\r\n			<td style=\"width:49px\">\r\n			<p><strong>:</strong></p>\r\n			</td>\r\n			<td style=\"width:247px\">\r\n			<p>69899829</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td style=\"width:192px\">\r\n			<p>Alamat</p>\r\n			</td>\r\n			<td style=\"width:49px\">\r\n			<p><strong>:</strong></p>\r\n			</td>\r\n			<td style=\"width:247px\">\r\n			<p>Jl. M Yusuf No 451 Pekon Rejosari Kecamatan Pringsewu&nbsp; Kabupaten &nbsp;Pringsewu 35373</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td style=\"width:192px\">\r\n			<p>Email &nbsp;</p>\r\n			</td>\r\n			<td style=\"width:49px\">\r\n			<p><strong>:</strong></p>\r\n			</td>\r\n			<td style=\"width:247px\">\r\n			<p>smkmaarifpringsewu@gmail.com</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td style=\"width:192px\">\r\n			<p>Bidang Keahlian &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</p>\r\n			</td>\r\n			<td style=\"width:49px\">\r\n			<p><strong>:</strong></p>\r\n			</td>\r\n			<td style=\"width:247px\">\r\n			<p>Teknologi Informasi dan Komunikasi</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td style=\"width:192px\">\r\n			<p>Program Keahlian &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</p>\r\n			</td>\r\n			<td style=\"width:49px\">\r\n			<p><strong>:</strong></p>\r\n			</td>\r\n			<td style=\"width:247px\">\r\n			<p>Teknik Komputer dan Jaringan</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td style=\"width:192px\">\r\n			<p>Program Studi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\r\n			</td>\r\n			<td style=\"width:49px\">\r\n			<p><strong>:</strong></p>\r\n			</td>\r\n			<td style=\"width:247px\">\r\n			<p>Teknologi Informatika</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td style=\"width:192px\">\r\n			<p>Jenjang</p>\r\n			</td>\r\n			<td style=\"width:49px\">\r\n			<p><strong>:</strong></p>\r\n			</td>\r\n			<td style=\"width:247px\">\r\n			<p>SMK ( 3 tahun )</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td style=\"width:192px\">\r\n			<p>Yayasan</p>\r\n			</td>\r\n			<td style=\"width:49px\">\r\n			<p><strong>:</strong></p>\r\n			</td>\r\n			<td style=\"width:247px\">\r\n			<p>Lembaga Pendidikan Ma&rsquo;arif&nbsp; NU Kab. Pringsewu</p>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td style=\"width:192px\">\r\n			<p>Izin Pendirian dan Penyelengaraan &nbsp;Sekolah Swasta Kabupaten Pringsewu</p>\r\n			</td>\r\n			<td style=\"width:49px\">\r\n			<p>&nbsp;</p>\r\n			</td>\r\n			<td style=\"width:247px\">\r\n			<p>Dinas Pendidikan, Kebudayaan dan &nbsp; &nbsp; Pariwisata Kabupaten Pringsewu Tanggal 21 Jan &nbsp;No.420/07/D.01/DP4/2015</p>\r\n			</td>\r\n		</tr>\r\n	</tbody>\r\n</table>\r\n\r\n<div style=\"clear:both;\">&nbsp;</div>\r\n', 'Jl.Kaca Pura, Semaka, Kabupaten Tanggamus, Lampung 35386', '05454854', 'mfsgfsgf');
+(2, '', 'N', 'SMK Kosgoro Penawartama  ', '<div style=\"clear:both;\">\r\n<div class=\"col-md-6\" style=\"box-sizing: border-box; -webkit-tap-highlight-color: transparent; position: relative; min-height: 1px; padding-right: 15px; padding-left: 15px; float: left; width: 407.5px; font-family: Roboto, sans-serif; font-size: 14px;\">\r\n<div class=\"panel panel-info\" style=\"box-sizing: border-box; -webkit-tap-highlight-color: transparent; margin-bottom: 20px; border: 0px; border-radius: 0px; box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 1px;\">\r\n<div class=\"panel-heading\" style=\"box-sizing: border-box; -webkit-tap-highlight-color: transparent; padding: 10px 15px; border: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px; font-size: 17px; color: rgba(255, 255, 255, 0.84); background-color: rgb(3, 169, 244);\">Identitas Sekolah</div>\r\n\r\n<div class=\"panel-body\" style=\"box-sizing: border-box; -webkit-tap-highlight-color: transparent; padding: 15px;\">\r\n<p><strong>NPSN :&nbsp;</strong>10809305</p>\r\n\r\n<p><strong>Status :&nbsp;</strong>Swasta</p>\r\n\r\n<p><strong>Bentuk Pendidikan :&nbsp;</strong>SMK</p>\r\n\r\n<p><strong>Status Kepemilikan :&nbsp;</strong>Yayasan</p>\r\n\r\n<p><strong>SK Pendirian Sekolah :&nbsp;</strong>800/310/A3/PKP-TB/2002</p>\r\n\r\n<p><strong>Tanggal SK Pendirian :&nbsp;</strong>2002-04-25</p>\r\n\r\n<p><strong>SK Izin Operasional :&nbsp;</strong>800/310/A.3/PKP-TB/2002</p>\r\n\r\n<p><strong>Tanggal SK Izin Operasional :&nbsp;</strong>2002-04-25</p>\r\n</div>\r\n</div>\r\n</div>\r\n\r\n<div class=\"col-md-6\" style=\"box-sizing: border-box; -webkit-tap-highlight-color: transparent; position: relative; min-height: 1px; padding-right: 15px; padding-left: 15px; float: left; width: 407.5px; font-family: Roboto, sans-serif; font-size: 14px;\">\r\n<div class=\"panel panel-info\" style=\"box-sizing: border-box; -webkit-tap-highlight-color: transparent; margin-bottom: 20px; border: 0px; border-radius: 0px; box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 1px;\">\r\n<div class=\"panel-heading\" style=\"box-sizing: border-box; -webkit-tap-highlight-color: transparent; padding: 10px 15px; border: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px; font-size: 17px; color: rgba(255, 255, 255, 0.84); background-color: rgb(3, 169, 244);\">Data Pelengkap</div>\r\n\r\n<div class=\"panel-body\" style=\"box-sizing: border-box; -webkit-tap-highlight-color: transparent; padding: 15px;\">\r\n<p><strong>Kebutuhan Khusus Dilayani :&nbsp;</strong>Tidak ada</p>\r\n\r\n<p><strong>Nama Bank :&nbsp;</strong>BANK LAMPUNG</p>\r\n\r\n<p><strong>Cabang KCP/Unit :&nbsp;</strong>BANJAR AGUNG</p>\r\n\r\n<p><strong>Rekening Atas Nama :&nbsp;</strong>SMK KOSGORO PENAWARTAMA</p>\r\n</div>\r\n</div>\r\n\r\n<div class=\"panel panel-info\" style=\"box-sizing: border-box; -webkit-tap-highlight-color: transparent; margin-bottom: 20px; border: 0px; border-radius: 0px; box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 1px;\">\r\n<div class=\"panel-heading\" style=\"box-sizing: border-box; -webkit-tap-highlight-color: transparent; padding: 10px 15px; border: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px; font-size: 17px; color: rgba(255, 255, 255, 0.84); background-color: rgb(3, 169, 244);\">Data Rinci</div>\r\n\r\n<div class=\"panel-body\" style=\"box-sizing: border-box; -webkit-tap-highlight-color: transparent; padding: 15px;\">\r\n<p><strong>Status BOS :&nbsp;</strong>Bersedia Menerima</p>\r\n\r\n<p><strong>Waku Penyelenggaraan :&nbsp;</strong>Pagi</p>\r\n\r\n<p><strong>Sertifikasi ISO :&nbsp;</strong>Belum Bersertifikat</p>\r\n\r\n<p><strong>Sumber Listrik :&nbsp;</strong>PLN</p>\r\n\r\n<p><strong>Daya Listrik :&nbsp;</strong>2800</p>\r\n\r\n<p><strong>Akses Internet :&nbsp;</strong>Telkomsel Flash</p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n', 'JL. SEMERU NO. 02 RT / RW : 3 / 3  Bogatama kel. Boga Tama  Kec. Penawartama Kab. Tulang Bawang Prov. Lampung 34595 ', '05454854', 'mfsgfsgf');
 
 -- --------------------------------------------------------
 
@@ -659,227 +659,210 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `nama_lengkap`, `email`, `id_session`, `tgl_log`, `jam_log`) VALUES
-(12, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'admin', 'admin@yahoo.com', '31n2rbqe4vg4663k4mgej017d3', '17/06/2023', '11:37 AM');
+(12, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'admin', 'admin@yahoo.com', '67g5un5fgi5slsvql082is08o5', '02/07/2023', '01:39 AM');
 
 --
 -- Indexes for dumped tables
 --
 
 --
--- Indeks untuk tabel `agenda`
+-- Indexes for table `agenda`
 --
 ALTER TABLE `agenda`
   ADD PRIMARY KEY (`id_agenda`);
 
 --
--- Indeks untuk tabel `banner`
+-- Indexes for table `banner`
 --
 ALTER TABLE `banner`
   ADD PRIMARY KEY (`id_banner`);
 
 --
--- Indeks untuk tabel `berita`
+-- Indexes for table `berita`
 --
 ALTER TABLE `berita`
   ADD PRIMARY KEY (`id_berita`);
 
 --
--- Indeks untuk tabel `bukutamu`
+-- Indexes for table `bukutamu`
 --
 ALTER TABLE `bukutamu`
   ADD PRIMARY KEY (`id_bukutm`);
 
 --
--- Indeks untuk tabel `download`
+-- Indexes for table `download`
 --
 ALTER TABLE `download`
   ADD PRIMARY KEY (`id_d`);
 
 --
--- Indeks untuk tabel `galeri`
+-- Indexes for table `galeri`
 --
 ALTER TABLE `galeri`
   ADD PRIMARY KEY (`id_galeri`);
 
 --
--- Indeks untuk tabel `header`
+-- Indexes for table `header`
 --
 ALTER TABLE `header`
   ADD PRIMARY KEY (`id_header`);
 
 --
--- Indeks untuk tabel `kategori`
+-- Indexes for table `kategori`
 --
 ALTER TABLE `kategori`
   ADD PRIMARY KEY (`id_kategori`);
 
 --
--- Indeks untuk tabel `kat_download`
+-- Indexes for table `kat_download`
 --
 ALTER TABLE `kat_download`
   ADD PRIMARY KEY (`no`),
   ADD UNIQUE KEY `no` (`no`);
 
 --
--- Indeks untuk tabel `komentar`
+-- Indexes for table `komentar`
 --
 ALTER TABLE `komentar`
   ADD PRIMARY KEY (`id_tamu`);
 
 --
--- Indeks untuk tabel `link`
+-- Indexes for table `link`
 --
 ALTER TABLE `link`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indeks untuk tabel `pegawai`
+-- Indexes for table `pegawai`
 --
 ALTER TABLE `pegawai`
   ADD PRIMARY KEY (`id_gr`);
 
 --
--- Indeks untuk tabel `pendaftaran`
+-- Indexes for table `pendaftaran`
 --
 ALTER TABLE `pendaftaran`
   ADD PRIMARY KEY (`no_daftar`);
 
 --
--- Indeks untuk tabel `profil`
+-- Indexes for table `profil`
 --
 ALTER TABLE `profil`
   ADD PRIMARY KEY (`id_profil`);
 
 --
--- Indeks untuk tabel `tbl_nilai`
+-- Indexes for table `tbl_nilai`
 --
 ALTER TABLE `tbl_nilai`
   ADD PRIMARY KEY (`id_nilai`);
 
 --
--- Indeks untuk tabel `tbl_pengaturan_ujian`
+-- Indexes for table `tbl_pengaturan_ujian`
 --
 ALTER TABLE `tbl_pengaturan_ujian`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indeks untuk tabel `tbl_soal`
+-- Indexes for table `tbl_soal`
 --
 ALTER TABLE `tbl_soal`
   ADD PRIMARY KEY (`id_soal`);
 
 --
--- Indeks untuk tabel `users`
+-- Indexes for table `users`
 --
 ALTER TABLE `users`
   ADD PRIMARY KEY (`id`);
 
 --
--- AUTO_INCREMENT untuk tabel yang dibuang
+-- AUTO_INCREMENT for dumped tables
 --
 
 --
--- AUTO_INCREMENT untuk tabel `agenda`
+-- AUTO_INCREMENT for table `agenda`
 --
 ALTER TABLE `agenda`
   MODIFY `id_agenda` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=57;
-
 --
--- AUTO_INCREMENT untuk tabel `banner`
+-- AUTO_INCREMENT for table `banner`
 --
 ALTER TABLE `banner`
   MODIFY `id_banner` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
-
 --
--- AUTO_INCREMENT untuk tabel `berita`
+-- AUTO_INCREMENT for table `berita`
 --
 ALTER TABLE `berita`
   MODIFY `id_berita` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=278;
-
 --
--- AUTO_INCREMENT untuk tabel `bukutamu`
+-- AUTO_INCREMENT for table `bukutamu`
 --
 ALTER TABLE `bukutamu`
   MODIFY `id_bukutm` int(4) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
-
 --
--- AUTO_INCREMENT untuk tabel `download`
+-- AUTO_INCREMENT for table `download`
 --
 ALTER TABLE `download`
   MODIFY `id_d` int(4) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=25;
-
 --
--- AUTO_INCREMENT untuk tabel `galeri`
+-- AUTO_INCREMENT for table `galeri`
 --
 ALTER TABLE `galeri`
   MODIFY `id_galeri` int(4) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
 --
--- AUTO_INCREMENT untuk tabel `header`
+-- AUTO_INCREMENT for table `header`
 --
 ALTER TABLE `header`
   MODIFY `id_header` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=31;
-
 --
--- AUTO_INCREMENT untuk tabel `kategori`
+-- AUTO_INCREMENT for table `kategori`
 --
 ALTER TABLE `kategori`
   MODIFY `id_kategori` int(3) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=48;
-
 --
--- AUTO_INCREMENT untuk tabel `kat_download`
+-- AUTO_INCREMENT for table `kat_download`
 --
 ALTER TABLE `kat_download`
   MODIFY `no` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=29;
-
 --
--- AUTO_INCREMENT untuk tabel `komentar`
+-- AUTO_INCREMENT for table `komentar`
 --
 ALTER TABLE `komentar`
   MODIFY `id_tamu` int(4) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=69;
-
 --
--- AUTO_INCREMENT untuk tabel `link`
+-- AUTO_INCREMENT for table `link`
 --
 ALTER TABLE `link`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
-
 --
--- AUTO_INCREMENT untuk tabel `pegawai`
+-- AUTO_INCREMENT for table `pegawai`
 --
 ALTER TABLE `pegawai`
   MODIFY `id_gr` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=45;
-
 --
--- AUTO_INCREMENT untuk tabel `profil`
+-- AUTO_INCREMENT for table `profil`
 --
 ALTER TABLE `profil`
   MODIFY `id_profil` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
-
 --
--- AUTO_INCREMENT untuk tabel `tbl_nilai`
+-- AUTO_INCREMENT for table `tbl_nilai`
 --
 ALTER TABLE `tbl_nilai`
   MODIFY `id_nilai` int(7) NOT NULL AUTO_INCREMENT;
-
 --
--- AUTO_INCREMENT untuk tabel `tbl_pengaturan_ujian`
+-- AUTO_INCREMENT for table `tbl_pengaturan_ujian`
 --
 ALTER TABLE `tbl_pengaturan_ujian`
   MODIFY `id` int(4) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
-
 --
--- AUTO_INCREMENT untuk tabel `tbl_soal`
+-- AUTO_INCREMENT for table `tbl_soal`
 --
 ALTER TABLE `tbl_soal`
   MODIFY `id_soal` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=36;
-
 --
--- AUTO_INCREMENT untuk tabel `users`
+-- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
-COMMIT;
+  MODIFY `id` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
